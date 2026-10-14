@@ -1,0 +1,21 @@
+# SQL Injection Lab 01
+
+## Platform
+PortSwigger Web Security Academy
+
+## Vulnerability
+SQL Injection
+
+## Objective
+Understand and exploit the vulnerability
+in the authorized lab environment.
+
+## Methodology
+I investigated the application's behavior
+and tested inputs to identify the vulnerability.
+
+## Evidence
+Screenshot of the solved lab.
+
+## What I learned
+Explain what you learned from this lab.
